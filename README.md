@@ -1,9 +1,5 @@
 # Angular Pizza Creator
 
-<a href="https://ultimateangular.com" target="_blank"><img src="https://toddmotto.com/img/ua.png"></a>
-
-> Check out the [live demo](https://toddmotto.com/angular-pizza-creator/)
-
 ### Features
 
 * Angular v4 + new View Engine
